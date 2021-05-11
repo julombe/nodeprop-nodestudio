@@ -1,10 +1,22 @@
 /*=========== RESET ==========*/
-* {margin: 0; padding: 0; font-size: 100%; border: none; outline: none; font-weight: 300; box-sizing: border-box;
-font-family: 'Lato', sans-serif;}
+
+* { margin: 0; 
+    padding: 0; 
+    font-size: 100%; 
+    border: none; 
+    outline: none; 
+    font-weight: 300; 
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
 body {background-color: #f5f5f5;}
 a {text-decoration: none;}
 ul {list-style: none;}
 img {max-width: 100%;}
+
+
+
 /*=========== CONTAINER ==========*/
 .container {width: 100%; float: left; padding: 3% 4%; text-align: center;}
 /*=========== BG COLORS ==========*/
