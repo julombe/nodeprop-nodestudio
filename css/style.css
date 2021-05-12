@@ -42,7 +42,8 @@ img {
 .radius {border-radius: 7px;}
 
 /* CABEÇALHO */
-.logo {width: 56px; height: 56px; float: left; background: url(../img/logo-mobile.png) center center/56px no-repeat;
+.logo {
+    width: 56px; height: 56px; float: left; background: url(../img/logo-mobile.png) center center/56px no-repeat;
 font-size: 0;}
 
 .btn-menu {width: 56px; height: 56px; float: right; text-align: center; color: #fff; border-radius:56px; cursor: pointer;}
