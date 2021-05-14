@@ -136,8 +136,14 @@ img {
     padding: 5%; 
 }
 
-.btn-cadastrar { color: #130400;}
-.btn-sobre {color:#fff ; margin-top: 2%;}
+.btn-cadastrar {
+     color: #130400;
+    }
+
+.btn-sobre {
+    color:#fff ; 
+    margin-top: 2%;
+}
 
 
 /* SERVIÇOS */
