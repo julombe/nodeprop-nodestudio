@@ -114,8 +114,16 @@ img {
     font-weight: 700;
 }
 
-.title h3 {font-size: 1.5em; color: #fff;}
-.buttons {width: 100%; margin-top: 2%;}
+.title h3 {
+    font-size: 1.5em; 
+    color: #fff;
+}
+
+.buttons {
+    width: 100%; 
+    margin-top: 2%;
+}
+
 .buttons i {float: right;}
 .btn {width: 100%; font-size: 1.5em; text-align: left; cursor: pointer; padding: 5%; }
 .btn-cadastrar { color: #130400;}
