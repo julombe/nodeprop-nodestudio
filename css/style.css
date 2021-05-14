@@ -124,8 +124,18 @@ img {
     margin-top: 2%;
 }
 
-.buttons i {float: right;}
-.btn {width: 100%; font-size: 1.5em; text-align: left; cursor: pointer; padding: 5%; }
+.buttons i {
+    float: right;
+}
+
+.btn {
+    width: 100%; 
+    font-size: 1.5em; 
+    text-align: left; 
+    cursor: pointer; 
+    padding: 5%; 
+}
+
 .btn-cadastrar { color: #130400;}
 .btn-sobre {color:#fff ; margin-top: 2%;}
 
