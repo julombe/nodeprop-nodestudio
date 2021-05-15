@@ -195,8 +195,20 @@ img {
     margin-top: 2%;
 }
 
-.newsletter input {width: 100%;  color: #fff; border: 1px solid rgba(255,255,255,0.3); padding: 5%; }
-.newsletter button {width: 100%;  color:#130400; padding: 5%; cursor: pointer; margin-top: 2%; }
+.newsletter input {
+    width: 100%;  
+    color: #fff; 
+    border: 1px solid rgba(255,255,255,0.3); 
+    padding: 5%; 
+    }
+
+.newsletter button {
+    width: 100%;  
+    color:#130400; 
+    padding: 5%; 
+    cursor: pointer; 
+    margin-top: 2%; 
+}
 
 
 /* RODAPÉ */
