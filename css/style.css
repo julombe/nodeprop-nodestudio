@@ -181,9 +181,20 @@ img {
 
 
 /* NEWSLETTER */
-.newsletter h2 {font-size: 1.5em; color: #fff; font-weight: 700;}
-.newsletter h3 {color: #fff;}
-.newsletter form {margin-top: 2%;}
+.newsletter h2 {
+    font-size: 1.5em; 
+    color: #fff; 
+    font-weight: 700;
+}
+
+.newsletter h3 {
+    color: #fff;
+}
+
+.newsletter form {
+    margin-top: 2%;
+}
+
 .newsletter input {width: 100%;  color: #fff; border: 1px solid rgba(255,255,255,0.3); padding: 5%; }
 .newsletter button {width: 100%;  color:#130400; padding: 5%; cursor: pointer; margin-top: 2%; }
 
