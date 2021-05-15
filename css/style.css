@@ -147,7 +147,12 @@ img {
 
 
 /* SERVIÇOS */
-.servico {width: 100%;  text-align: left;  margin-bottom: 3%;}
+.servico {
+    width: 100%;  
+    text-align: left;  
+    margin-bottom: 3%;
+}
+
 .servico img {border-radius: 7px 7px 0 0;}
 .inner {padding: 7%;}
 .inner a {font-size: 1.5em; color: #130400; font-weight: 700; }
