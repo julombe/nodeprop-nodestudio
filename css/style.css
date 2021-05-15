@@ -221,8 +221,14 @@ img {
 {margin-right: 0;
 }
 
-.social-icons a:hover {color: rgb(255,255,255);}
-.copyright {color: rgba(255, 255, 255, 0.7); margin-top:2%;}
+.social-icons a:hover {
+    color: rgb(255,255,255);
+}
+
+.copyright {
+    color: rgba(255, 255, 255, 0.7); 
+    margin-top:2%;
+}
 
 
 /* ========== MOBILE FIRST ==========*/
