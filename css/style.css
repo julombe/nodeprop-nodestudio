@@ -245,8 +245,14 @@ img {
 
 /* SMALL DEVICES - TABLETS*/
 @media screen and (min-width: 768px) {
-.servico {width: 49%; float: left; margin-right: 2%;}
-.servico:nth-child(2){margin-right: 0;}
+.servico {
+    width: 49%; 
+    float: left; 
+    margin-right: 2%;
+}
+.servico:nth-child(2){
+    margin-right: 0;
+}
 .newsletter h2 {font-size: 2em;}
 .newsletter h3 {font-size: 1.5em;}
 .newsletter input {width: 70%; padding: 2%; float: left; margin-right: 1%;}
