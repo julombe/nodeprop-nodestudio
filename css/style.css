@@ -36,7 +36,9 @@ img {
 .bg-gradient {
     background: linear-gradient(to right,#ce2e3c,#da6709);
 }
-.bg-black {background-color: #130400; }
+.bg-black {
+    background-color: #130400;
+ }
 .bg-white {background-color: #fff;}
 
 
